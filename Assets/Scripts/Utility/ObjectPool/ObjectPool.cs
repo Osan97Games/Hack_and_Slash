@@ -1,3 +1,13 @@
+/*
+ * 개발자 : 김선호
+ * 생성일자 : 2022/07/02
+ * 클래스 설명 : Object Pooling 구현을 위한 클래스, ObjectController 상속 
+ * 포함 기능
+ *  - 초기 오브젝트 생성
+ *  - 오브젝트 풀로 복귀
+ *  - 사용 오브젝트 Pop
+ * 
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
